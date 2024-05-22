@@ -33,3 +33,22 @@ ID or title.
 The librarian has the ability to delete a book from the system. If a linked list data structure is employed
 for storing books, removing a node from the linked list will accomplish this task.
 
+
+Expected Learning Outcomes:
+This project offers several learning outcomes for students, including:
+1. Understanding of Data Structures:
+Students will gain a practical understanding of various data structures, such as arrays, linked lists,
+stacks, and queues. They will learn how to select and implement the appropriate data structure for storing
+and managing book data efficiently.
+2. Algorithm Implementation:
+By implementing search algorithms (e.g., binary search, linear search) and sorting algorithms (e.g.,
+quick sort, merge sort), students will enhance their algorithmic skills. They will understand the
+importance of selecting the right algorithm for specific scenarios and learn to analyze their efficiency.
+3. Real-World Application:
+Building a library management system provides students with practical experience in developing
+software for real-world applications. They will gain insights into the challenges and considerations
+involved in creating systems that meet specific requirements and user needs.
+4. File Handling Techniques:
+The project introduces students to file handling techniques, allowing them to store library data
+persistently. Students will learn how to load data from a file into the system and save the library data
+for future use
