@@ -21,7 +21,6 @@ book. If found, the system displays the book's details.
 When a book is issued to a student, the system updates its status from available to issued. It also stores 
 the relevant details of the student to whom the book has been issued. To manage book issues efficiently,
 a stack or queue data structure can be utilized.
-
 4. Return a Book:
 When a student returns a book, the system updates its status from issued to available. The system also
 removes the details of the student to whom the book was issued, ensuring accurate book tracking.
@@ -35,7 +34,6 @@ for storing books, removing a node from the linked list will accomplish this tas
 
 
 Expected Learning Outcomes:
-This project offers several learning outcomes for students, including:
 1. Understanding of Data Structures:
 Students will gain a practical understanding of various data structures, such as arrays, linked lists,
 stacks, and queues. They will learn how to select and implement the appropriate data structure for storing
